@@ -24,3 +24,13 @@
 - 시나리오 2 (HPA): 30-60% 절감
 - 시나리오 3 (환경별 최적화): 60-70% 절감
 - 시나리오 4 (리소스 제한): 노드 과부하 방지
+
+## 개선 전
+
+![beforePic](asserts/before_pic.png)
+
+
+## 개선 후
+
+
+![afterPic](asserts/after_pic.png)
